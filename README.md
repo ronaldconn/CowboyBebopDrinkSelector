@@ -2,7 +2,7 @@
 
 For the Cowboy Bepop Live Action Series Release Party I built this themed drink selecor. Partygoers were able to look up drinks to make for themseleves and other guests in a fun and themed way. It was a hit!
 
-[https://ronaldconn.github.io/Ode-to-WCW-poetry-generator/](https://ronaldconn.github.io/CowboyBebopDrinkSelector/)
+[https://ronaldconn.github.io/CowboyBebopDrinkSelector/](https://ronaldconn.github.io/CowboyBebopDrinkSelector/)
 
 ![gif of poetry generator in action](cbdrinkselector400.gif)
 
